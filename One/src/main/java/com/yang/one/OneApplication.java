@@ -1,4 +1,4 @@
-package com.yang.One;
+package com.yang.one;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
